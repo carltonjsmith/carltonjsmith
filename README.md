@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @carltonjsmith
 - 👀 I’m interested in theoretical and computational biophysics and neuroscience 
-- 🌱 I’m currently studying physics and mathematical methods at the Universtity of the Florida  
+- 🌱 I’m currently studying physics at Yale Uni 
 - 💞️ I’m looking to collaborate on projects related to biological simulations or data analysis.  
 - 📫 How to reach me: carltonsmith.jr.00@gmail.com
 
